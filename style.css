@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(124, 56, 56);
+    justify-content: space-between;
+    text-align: center;
+    margin:0 auto;
+    margin-top: 15%;
+}
+
+.container{
+    background-color:rgb(146, 102, 102);
+    width: 600px;
+    margin-left: 25%;
+    margin-top: 20px;
+}
+
+#counter{
+    font-size: 40px;
+}
+
+.container{
+    border: 1px ;
+    padding: 10px;
+    box-shadow: 20px -25px 25px #e16969;
+    border-radius: 10px;
+}
+
+#add_num,#rem_num{
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 20px;
+    box-shadow: 4px -5px 5px #e16969;
+}
+
+#add_num{
+    margin-right: 20px;
+}
+
+#rem_num{
+    margin-left: 25px;
+}
+
+#disp{
+    font-size: 60px;
+}
